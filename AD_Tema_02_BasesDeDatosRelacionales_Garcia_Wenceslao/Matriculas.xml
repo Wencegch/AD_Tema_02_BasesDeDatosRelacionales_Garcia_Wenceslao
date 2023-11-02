@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<matriculas nombre="Matriculas">
+    <matricula>
+        <codigo_alumno>002</codigo_alumno>
+        <nombre_alumno>Maria</nombre_alumno>
+        <codigo_curso>I001</codigo_curso>
+        <nombre_curso>Ingles Basico</nombre_curso>
+        <nota_media>1</nota_media>
+    </matricula>
+    <matricula>
+        <codigo_alumno>002</codigo_alumno>
+        <nombre_alumno>Maria</nombre_alumno>
+        <codigo_curso>F001</codigo_curso>
+        <nombre_curso>Frances Basico</nombre_curso>
+        <nota_media>2</nota_media>
+    </matricula>
+    <matricula>
+        <codigo_alumno>002</codigo_alumno>
+        <nombre_alumno>Maria</nombre_alumno>
+        <codigo_curso>C002</codigo_curso>
+        <nombre_curso>Chino Intermedio</nombre_curso>
+        <nota_media>1</nota_media>
+    </matricula>
+</matriculas>
